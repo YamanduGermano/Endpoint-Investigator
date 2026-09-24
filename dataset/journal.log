@@ -1,0 +1,5 @@
+Sep 14 09:00:00 srv-app-01 systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+Sep 14 09:00:02 srv-app-01 systemd[1]: Started apache2.service - The Apache HTTP Server.
+Sep 14 09:00:08 srv-app-01 sshd[1204]: Accepted publickey for aluno from 10.20.30.44 port 51518 ssh2
+Sep 14 09:00:10 srv-app-01 systemd-logind[640]: New session 7 of user aluno.
+Sep 14 09:00:15 srv-app-01 python3[1234]: routine check completed status=OK

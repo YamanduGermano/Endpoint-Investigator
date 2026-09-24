@@ -1,0 +1,8 @@
+path,type,owner,group,mode,mtime
+/opt/app,directory,root,root,0755,2026-09-14T09:00:00-03:00
+/opt/app/check.py,file,root,root,0755,2026-09-13T08:59:00-03:00
+/etc/shadow,file,root,shadow,0640,2026-09-12T08:58:00-03:00
+/usr/local/bin/report-sync,file,root,root,0755,2026-09-11T08:57:00-03:00
+/home/aluno/check.py,file,aluno,aluno,0755,2026-09-10T08:56:00-03:00
+/opt/reports/report.sh,file,root,root,0777,2026-09-12T09:00:00-03:00
+/opt/reports,directory,root,root,0755,2026-09-11T09:00:00-03:00

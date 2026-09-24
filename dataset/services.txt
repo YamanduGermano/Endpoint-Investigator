@@ -1,0 +1,4 @@
+UNIT                         ACTIVE   USER      EXECSTART
+ssh.service                 running  root      /usr/sbin/sshd -D
+apache2.service             running  root      /usr/sbin/apachectl start
+cron.service                running  root      /usr/sbin/cron -f

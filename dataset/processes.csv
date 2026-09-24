@@ -1,0 +1,9 @@
+timestamp,pid,ppid,user,stat,cmd
+2026-09-14T09:00:00-03:00,1,0,root,Ss,/sbin/init
+2026-09-14T09:00:02-03:00,612,1,root,Ss,/usr/sbin/sshd -D
+2026-09-14T09:00:04-03:00,701,1,root,Ss,/usr/sbin/cron -f
+2026-09-14T09:00:06-03:00,733,1,www-data,S,/usr/sbin/apache2 -k start
+2026-09-14T09:00:08-03:00,744,733,www-data,S,/usr/sbin/apache2 -k start
+2026-09-14T09:00:10-03:00,1204,612,aluno,Ss,sshd: aluno@pts/0
+2026-09-14T09:00:12-03:00,1212,1204,aluno,S,/bin/bash
+2026-09-14T09:00:14-03:00,1234,1212,aluno,S,/usr/bin/python3 /home/aluno/check.py
