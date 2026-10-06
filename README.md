@@ -3,6 +3,10 @@
 Investigação sob demanda de endpoints Linux: **COLETA → NORMALIZAÇÃO → CORRELAÇÃO → EVIDÊNCIAS → HIPÓTESES → RESULTADO**.
 Python 3.10+, só biblioteca padrão.
 
+## Vídeo Demonstração para Exemplo de Utilização
+
+- Segue o vídeo para demonstração, necessário para a entrega, e que pode ser usado como referência para a avaliação do protótipo: [Vídeo Demonstração](https://youtu.be/GRqNC8juIws)
+
 ## Uso
 Sem parâmetros o programa imprime o help. Escolha **um** modo:
 
