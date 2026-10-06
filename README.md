@@ -3,6 +3,18 @@
 Investigação sob demanda de endpoints Linux: **COLETA → NORMALIZAÇÃO → CORRELAÇÃO → EVIDÊNCIAS → HIPÓTESES → RESULTADO**.
 Python 3.10+, só biblioteca padrão.
 
+## Instalação
+
+O projeto não possui dependências externas. Basta usar Python 3.10 ou superior.
+
+```bash
+python3 --version
+python3 -m pip install -r requirements.txt
+```
+
+O comando `pip install` não instalará pacotes: o arquivo existe para documentar
+explicitamente que a ferramenta usa somente a biblioteca padrão do Python.
+
 ## Vídeo Demonstração para Exemplo de Utilização
 
 - Segue o vídeo para demonstração, necessário para a entrega, e que pode ser usado como referência para a avaliação do protótipo: [Vídeo Demonstração](https://youtu.be/GRqNC8juIws)
